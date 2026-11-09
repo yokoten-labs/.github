@@ -26,3 +26,8 @@ workflows, the release) merges only with the owner's approval. 520+ merged pull 
 Run `npx yokoten` in a project of yours, then
 [open an issue](https://github.com/yokoten-labs/yokoten/issues) with what was hard or unclear.
 A stranger's first issue is the most useful thing this project can get.
+
+---
+
+Made by [Coolwhite Studio](https://coolwhite.us). Need an AI-built project
+rescued and put on a steady process? Start with a free check at [inkamark.com](https://inkamark.com).
