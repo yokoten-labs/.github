@@ -1,8 +1,8 @@
-## yokoten-labs · 横展
+## yokoten-labs
 
 **yokoten stops your AI coding agent from making the mistake you can't undo. One command, no setup.**
 
-横展 (yokoten) is a word from Toyota's shop floor: a lesson learned on one line spreads to
+yokoten (横展) is a word from Toyota's shop floor: a lesson learned on one line spreads to
 every line. We build tools that do the same for software made with AI coding agents.
 
 ### Projects
